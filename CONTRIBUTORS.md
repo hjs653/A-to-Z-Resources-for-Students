@@ -212,6 +212,7 @@ Instructions :
 | 180 | **Utkarsh Dubey** | India | School Student | [Github](https://github.com/utkarshdubey2)
 | 181 | **Prakhar Varshney** | India | CSE Student | [GitHub](https://github.com/prakhar9998) |
 | 182 | **David Christoffersen** | Denmark | Product owner | [GitHub](https://github.com/dattvidc) |
+| 182b | **Al Addams** | Tennessee | Web Editor | [Github](https://github.com/hjs653) - [Website](www.allysonadam.dev) |
 | 183 | **Malka Saba**  | Canada | Computer Science Student | [GitHub](https://github.com/malkasaba) |
 | 184 | **Bhavy Khatter** | India | Computer Science Student | [GitHub](https://github.com/bhavy007) |
 | 185 | **Mark Gormley** | Ireland | Computer Science Student | [GitHub](https://github.com/gormleymark) |
